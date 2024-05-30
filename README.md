@@ -30,4 +30,5 @@ OCR 에서 들어갈 때 출력 값을 txt 파일로 저장할 것이다.
 ![image](https://github.com/neoman-omyeon-go/AI_main/assets/97443033/49a7ca8d-87de-4981-8aa5-57e055cb8a21)
 
 
+![image](https://github.com/neoman-omyeon-go/AI_main/assets/97443033/57eef419-ba81-4b25-a21c-36b9294c4903)
 
